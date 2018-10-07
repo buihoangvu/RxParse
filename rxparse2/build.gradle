@@ -58,7 +58,7 @@ android {
 }
 
 dependencies {
-    compile 'com.parse:parse-android:1.13.1'
+    compile 'com.parse:parse-android:1.18.5'
     compile 'io.reactivex.rxjava2:rxjava:2.0.8'
 
     compile 'com.github.yongjhih.RxBolts:rxbolts2-tasks:2.0.2'
