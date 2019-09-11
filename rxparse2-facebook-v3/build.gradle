@@ -44,7 +44,7 @@ android {
 }
 
 dependencies {
-    compile 'com.parse:parse-android:1.13.1'
+    compile 'com.github.parse-community.Parse-SDK-Android:parse:1.21.0'
     compile 'com.parse.bolts:bolts-android:1.4.0'
     compile 'com.parse:parsefacebookutils-v3-android:1.10.4@aar'
 
